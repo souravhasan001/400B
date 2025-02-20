@@ -3,7 +3,7 @@
 This repository contains a web-based application for classifying dry fish images and providing explainable AI (XAI) visualizations using Grad-CAM, Grad-CAM++, and Eigen-CAM. The application is built with Streamlit and PyTorch.
 
 ## Demo App: 
-- Link: https://dry-fish-xai-caeyevtxdywvun96usmgbq.streamlit.app/
+- Link: [https://dry-fish-xai-caeyevtxdywvun96usmgbq.streamlit.app/](https://humble-space-winner-jpr976j9qw4hp697-8501.app.github.dev/)
 
 ## Features
 - **Dry Fish Classification**: Uses a MobileNetV2 model trained on 11 different dry fish categories.
